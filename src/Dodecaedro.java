@@ -1,6 +1,4 @@
-/**
- * Created by Dimple on 16/06/2016.
- */
+
 public class Dodecaedro extends Poliedro {
 
     private double apotema;

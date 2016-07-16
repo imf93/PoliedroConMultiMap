@@ -1,6 +1,4 @@
-/**
- * Created by Dimple on 16/06/2016.
- */
+
 import java.util.Scanner;
 import java.util.List;
 import java.util.ArrayList;

@@ -1,6 +1,4 @@
-/**
- * Created by Dimple on 17/06/2016.
- */
+
 public class Icosaedro extends Poliedro {
 
     public Icosaedro(long id, String color, double arista) {

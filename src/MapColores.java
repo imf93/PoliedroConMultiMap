@@ -1,8 +1,5 @@
 import java.util.*;
 
-/**
- * Created by professor on 27/06/2016.
- */
 public class MapColores {
 
     private static Scanner sc = new Scanner(System.in);
@@ -28,8 +25,8 @@ public class MapColores {
 
             Cubo cubo = new Cubo(i,"Verde", arista);
 
-            cuboListVerde.add(cubo); // añadimos al arrayList particular
-            arrayList.add(cubo); //añadimos el cubo al arrayList gral
+            cuboListVerde.add(cubo);
+            arrayList.add(cubo);
         }
         mapColores.put("Verdes",cuboListVerde);
 
